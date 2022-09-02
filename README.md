@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Working project is deployed here : https://find-my-movies.netlify.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
